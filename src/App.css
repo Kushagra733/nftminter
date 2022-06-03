@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+.upload{
+  background-color: #a4dff0;
+  height: 40px;
+  width: 80ch;
+  margin: 20px auto;
+  padding: 10px;
+  border-left: 10px solid blue;
+
+}
+button{
+  margin-left: 20px;
+  background-color: blue;
+  border-radius: 5px;
+  color: white;
+  height: 30px;
+}
+button:hover{
+  cursor: pointer;
+  background-color: rgb(78, 78, 238);
+}
+.opensea{
+  width: 80ch;
+  margin: 20px auto;
+  
+}
+.head{
+  text-align: center;
+}
